@@ -4,12 +4,12 @@ My first repository
 This repository contains my favorite series/movies. Some of it are anime which are **japanese animation** and others are casted by real *person/actors*. 
 
 Here are the list of some of my favorite _series_(includes anime):
-- Breaking Bad
-- Assassination Classroom
-- Loki
-- Fate Series
-- Alice in Borderland
-- Sweet Home
+- Outerbanks
+- One piece
+- Bleace
+- Gotham
+- Hunter X Hunter
+- Demon Slayer
 - The Sandman
 - The Punisher
 - Daredevil
@@ -26,8 +26,8 @@ Here are the list of some of my favorite _series_(includes anime):
 - Arcane
 
 Here are the list of some of my favorite __movies__:
-1. Tennet
-2. Inception
+1. After
+2. If I stay
 3. Interstellar
 4. Marvel's Avengers
 5. Spiderman
@@ -50,12 +50,12 @@ Here are the list of some of my favorite __movies__:
 Here are all my favorite series/movie combined in a table:
 | Series                           | Movies             |
 |----------------------------------|--------------------|
-| Breaking Bad                     | Tennet             |
-| Assassination Classroom          | Inception          |
-| Loki                             | Interstellar       |
-| Fate Series                      | Marvel's Avenger   |
-| Alice in Borderland              | Spiderman          |
-| Sweet Home                       | The Shutter Island |
+| Outerbanks                       | After              |
+| One piece                        | If I stay          |
+| Bleach                           | Interstellar       |
+| Gotham                           | Marvel's Avenger   |
+| Hunter X Hunter                  | Spiderman          |
+| Demon Slayer                     | The Shutter Island |
 | The Sandman                      | Oppenheimer        |
 | The Punisher                     | Reel Steel         |
 | Daredevil                        | Pacific Rim        |
